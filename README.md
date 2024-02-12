@@ -1,6 +1,6 @@
 # Tamildhool.net Notifier
 
-Sents a discord alert when a new episode released in TamilDhool
+Sents a discord alert when a new episode is released in TamilDhool
 
 1. Clone Repository
 
