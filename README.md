@@ -25,3 +25,9 @@ $ pip install -r requirements.txt
 ```sh
 $ python main.py
 ```
+
+Discord Alert Structure
+```
+@everyone
+New Episode for Peranbu 11-11-2023 Zee Tamil Serial is released.
+```
