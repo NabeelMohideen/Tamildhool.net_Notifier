@@ -19,7 +19,7 @@ $ cd Tamildhool.net_Notifier
 $ pip install -r requirements.txt
 ```
 
-4. Add your discord webhook URL to `webhook_url` variable and show URL to `url` variable
+4. Add your discord webhook URL to `webhook_url` variable and the show URL to `url` variable
 
 5. Run Script
 ```sh
